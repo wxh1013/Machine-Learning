@@ -83,9 +83,13 @@
 
 还有几个github ：
 Philippines大学的roatienza大爷的 https://github.com/roatienza
+
 hanbingtao 的GitHub ： https://github.com/hanbt
+
 莫烦的GitHub ：https://github.com/MorvanZhou
+
 Xiang Liang的GitHub ： https://github.com/xlvector
+
 
 还有实验室的师兄们，给了很多帮助。和 stackoverflow 解决了很多遇到的问题。
 
